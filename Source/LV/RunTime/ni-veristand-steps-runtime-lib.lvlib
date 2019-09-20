@@ -44,6 +44,7 @@
 	</Item>
 	<Item Name="project" Type="Folder">
 		<Item Name="ProjectClose.vi" Type="VI" URL="../project/ProjectClose.vi"/>
+		<Item Name="ProjectCloseReferences.vi" Type="VI" URL="../project/ProjectCloseReferences.vi"/>
 		<Item Name="ProjectConnect.vi" Type="VI" URL="../project/ProjectConnect.vi"/>
 		<Item Name="ProjectDeploy.vi" Type="VI" URL="../project/ProjectDeploy.vi"/>
 		<Item Name="ProjectDisconnect.vi" Type="VI" URL="../project/ProjectDisconnect.vi"/>
